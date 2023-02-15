@@ -1,0 +1,27 @@
+Git 学习笔记
+	 github官网地址：https://github.com/。
+	 gitee官网地址：https://gitee.com/
+	 
+	一：下载安装GIT
+		进入官网 https://git-scm.com/ 下载电脑对应版本，安装时一直下一步直到完成即可。
+		启动GIT:安装完成后在桌面右击鼠标会有GIT选项。
+			Git Bash Here:Unix与Linux风格命令行，使用最多，推荐最多。
+			Git Gui Here:图形界面的Git,不建议初学者使用，尽量先熟悉常用命令。
+			Git CMD:Windows风格命令（这个在安装后的开始菜单Git文件夹下）。
+	二：基本Linux命令。
+		1.cd		=>改变目录命令。
+		2.cd..		=>回退到上一级目录。
+		3.pwd		=>显示当前所在目录路径。
+		4.ls		=>列出当前目录中所有文件，ll比ls更详细。
+		5.touch		=>在当前目录下新建一个文件。
+		6.rm		=>删除一个文件。
+		7.mkdir		=>新建一个文件夹。
+		8.rm -r		=>删除一个文件夹。
+		9.mv		=>移动文件。
+		10.reset	=>初始化终端/清屏。
+		11.clear	=>清屏。
+		12.history	=>查看历史命令。
+		13.help		=>帮助。
+		14.exit		=>退出。
+		15.#		=>表示注释。
+		
